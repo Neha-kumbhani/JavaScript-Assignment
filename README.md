@@ -1,1 +1,1 @@
-# JavaScript-Assignment
+# JavaScript-Assignment-data-type
